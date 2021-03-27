@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+H:\My-项目\My Projects\P015 MySTM32F103C8\Project Outputs for MySTM32F103C8\Pick Place for MySTM32F103C8 v1.1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/03/21
+Time:       11:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"JP2","JP-2P-P","BottomLayer","SMD-JUMPER-2-PASTE","38.1000","16.5100","360",""
+"P2","2.54mm 20P","BottomLayer","PSH1x20","25.4000","19.0500","180","直插式连接器 2.54mm"
+"P1","2.54mm 20P","BottomLayer","PSH1x20","25.4000","1.2700","180","直插式连接器 2.54mm"
+"Y2","32.768kHz","BottomLayer","OSC-FC-135","31.2420","10.6680","180","贴片晶振"
+"Y1","8MHz","BottomLayer","OSC-3225","30.9880","15.2400","360","贴片无源晶振"
+"R7","1K","BottomLayer","SMD-RES-0402","41.1480","15.2400","360","贴片电阻"
+"R6","1K","BottomLayer","SMD-RES-0402","38.7350","6.6040","90","贴片电阻"
+"R5","220R","BottomLayer","SMD-RES-0402","14.7320","9.6520","360","贴片电阻"
+"R4","220R","BottomLayer","SMD-RES-0402","14.7320","10.6680","360","贴片电阻"
+"R3","1M","BottomLayer","SMD-RES-0402","31.7500","12.9540","0","贴片电阻"
+"R2","10K","BottomLayer","SMD-RES-0402","32.1310","5.4610","180","贴片电阻"
+"R1","10K","BottomLayer","SMD-RES-0402","38.1000","8.5100","360","贴片电阻"
+"JP1","JP-3P-P","BottomLayer","SMD-JUMPER-3-PASTE","35.0520","5.4610","270",""
+"IC1","SPX3819-3.3V","BottomLayer","SOT-23-5","12.1920","5.9690","90","贴片LDO"
+"D1","B5819W","BottomLayer","SOD-123","7.8740","10.2870","90","贴片二极管"
+"C13","10nF","BottomLayer","SMD-CAP-0402","14.0970","8.1280","180","贴片电容"
+"C12","4.7uF","BottomLayer","SMD-CAP-0603","15.1130","5.9288","270","贴片电容"
+"C11","1uF","BottomLayer","SMD-CAP-0402","8.7630","5.0800","360","贴片电容"
+"C10","4.7uF","BottomLayer","SMD-CAP-0603","8.3820","6.2230","360","贴片电容"
+"C9","12pF","BottomLayer","SMD-CAP-0402","28.7020","10.6680","270","贴片电容"
+"C8","12pF","BottomLayer","SMD-CAP-0402","33.7820","10.6680","270","贴片电容"
+"C7","100nF","BottomLayer","SMD-CAP-0402","24.0030","4.1910","90","贴片电容"
+"C6","100nF","BottomLayer","SMD-CAP-0402","22.8600","11.3030","270","贴片电容"
+"C5","100nF","BottomLayer","SMD-CAP-0402","27.1780","12.4460","180","贴片电容"
+"C4","100nF","BottomLayer","SMD-CAP-0402","29.4640","9.0170","360","贴片电容"
+"C3","22pF","BottomLayer","SMD-CAP-0402","33.6550","15.2400","270","贴片电容"
+"C2","22pF","BottomLayer","SMD-CAP-0402","28.3210","15.2400","90","贴片电容"
+"C1","100nF","BottomLayer","SMD-CAP-0402","38.1000","11.8100","180","贴片电容"
+"P3","STM32 SWD","TopLayer","STM32-SWD-PTH-6-2.45","52.0700","10.1600","90","调试端口"
+"USB1","MicroUSB","TopLayer","Micro-USB-5P","3.1780","10.1600","270","贴片USB母座"
+"U1","STM32F103C8T6","TopLayer","LQFP48","25.4000","10.1600","225","贴片 STM32 MCU"
+"S1","Tact Switch 4x4","TopLayer","SMD-SW-4x4","38.1000","10.1600","270","轻触开关"
+"LED2","Blue","TopLayer","SMD-LED-0603-BLUE","38.1000","15.2400","180","贴片LED"
+"LED1","Red","TopLayer","SMD-LED-0603-RED","38.1000","5.0800","180","贴片LED"
